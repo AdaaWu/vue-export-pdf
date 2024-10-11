@@ -1,0 +1,29 @@
+{
+  "name": "my-vue3-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "apexcharts": "^3.53.0",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.3",
+    "jszip": "^3.10.1",
+    "moment": "^2.30.1",
+    "pdf-lib": "^1.17.1",
+    "pdfkit": "^0.15.0",
+    "sass": "^1.79.3",
+    "uikit": "^3.21.12",
+    "vue": "^3.5.8",
+    "vue3-apexcharts": "^1.6.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "vite": "^5.4.1"
+  }
+}
