@@ -1,10 +1,10 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/DemoItem.vue'
 </script>
 
 <template>
   <div>
- <h1>HELLO</h1>
+
   <HelloWorld msg="Vite + Vue" />
   </div>
 
